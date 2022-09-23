@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ax1an9.github.io</id>
+    <title>Technique Think</title>
+    <updated>2022-09-23T09:01:39.881Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ax1an9.github.io"/>
+    <link rel="self" href="https://ax1an9.github.io/atom.xml"/>
+    <subtitle>Why dont you think？</subtitle>
+    <logo>https://ax1an9.github.io/images/avatar.png</logo>
+    <icon>https://ax1an9.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Technique Think</rights>
+    <entry>
+        <title type="html"><![CDATA[First Day of My Blog]]></title>
+        <id>https://ax1an9.github.io/post/first-day-of-my-blog/</id>
+        <link href="https://ax1an9.github.io/post/first-day-of-my-blog/">
+        </link>
+        <updated>2022-09-23T02:31:13.000Z</updated>
+        <content type="html"><![CDATA[<p>It's the first day of my blog!  🚩</p>
+<p>I am going to share some practical knowledges about <strong>development</strong> . 🚀</p>
+]]></content>
+    </entry>
+</feed>
